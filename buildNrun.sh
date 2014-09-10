@@ -1,0 +1,6 @@
+#!/bin/bash
+echo Building...
+javac HelloWorld.java
+echo Running...
+java HelloWorld
+echo Done.
